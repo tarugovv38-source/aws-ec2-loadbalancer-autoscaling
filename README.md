@@ -237,7 +237,4 @@ Through this project, the following AWS concepts were practiced:
 
 # Author
 
-Vitor Tavares
-
-Information Systems Student  
-Cloud Computing Enthusiast
+Vitor Hugo Tavares
